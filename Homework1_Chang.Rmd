@@ -3,8 +3,8 @@ title: "Homework 1: a Gapminder Exercise"
 author: "Alexander Chang"
 date: "February 7, 2018"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
   word_document: default
 ---
 
@@ -173,8 +173,8 @@ plot(lifeExp ~ gdpPercap, gap_with_colors,
 ### **Homework 01 Exercise - Task 5**
 
 ### **Task 5 link**
-[https://github.com/theamazingchang/N741/blob/master/GapminderMarkdown.Rmd]
-[https://github.com/theamazingchang/N741/blob/master/GapminderMarkdown.html]
+[https://github.com/theamazingchang/N741/blob/master/Homework1_Chang.Rmd]
+[https://github.com/theamazingchang/N741/blob/master/Homework1_Chang.html]
 
 * For your report, modify the YAML to put a good TITLE for your report and put in YOUR NAME and change the DATE.
 * If you have MiKTeX or MacTex installed and running on your computer, you can compile the report directly to PDF ("Knit to PDF"). However, if you didn't install these, you should still be able to "Knit to HTML" or "Knit to Word". Once you've got the HTML or Microsoft Word DOCX file created, you can print these to PDF.
