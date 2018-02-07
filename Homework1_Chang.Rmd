@@ -3,9 +3,9 @@ title: "Homework 1: a Gapminder Exercise"
 author: "Alexander Chang"
 date: "February 7, 2018"
 output:
-  pdf_document: default
-  html_document: default
   word_document: default
+  html_document: default
+  pdf_document: default
 ---
 
 ## **Homework 01 SETUP**
